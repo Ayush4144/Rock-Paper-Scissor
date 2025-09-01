@@ -17,9 +17,6 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 **Live Demo:** https://your-username.github.io/rock-paper-scissors/  
 *(Replace `your-username` with your GitHub username.)*
 
-**Screenshot:**  
-`/assets/screenshot.png` (add an image at this path or update the path)
-
 ## Tech Stack
 - HTML — structure  
 - CSS — styling  
@@ -27,7 +24,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 
 ## Setup (run locally)
 1. Clone the repo  
-   `git clone https://github.com/your-username/rock-paper-scissors.git`  
+   `git clone https://github.com/Ayush4144/rock-paper-scissors.git`  
 2. Open `index.html` in your browser
 
 ## Contributing
