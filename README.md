@@ -14,7 +14,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 3. Result is shown and scores update.
 
 ## Demo
-**Live Demo:** https://your-username.github.io/rock-paper-scissors/  
+**Live Demo:** https://Ayush4144.github.io/rock-paper-scissors/  
 *(Replace `your-username` with your GitHub username.)*
 
 ## Tech Stack
